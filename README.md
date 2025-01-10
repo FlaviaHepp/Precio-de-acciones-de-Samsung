@@ -7,6 +7,6 @@ Desarrollo de un análisis exhaustivo de los datos históricos de precios de acc
 *Métricas de evaluación:* MAE, MSE, R².
 **Resultados clave:**
 Identificación de una tendencia de aumento constante en los precios ajustados y una disminución gradual en el volumen de operaciones.
-Implementación de modelos predictivos con un R2R^2R2 de X% para regresión lineal y Y% para el modelo Random Forest.
+Implementación de modelos predictivos con un R2R^2R2 para regresión lineal y para el modelo Random Forest.
 Creación de visualizaciones interactivas para explorar desviaciones móviles y correlaciones clave en los datos.
 *Habilidades aplicadas:* Análisis exploratorio de datos (EDA), preprocesamiento de datos, modelado y evaluación de regresión, creación de visualizaciones avanzadas.
