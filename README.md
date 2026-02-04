@@ -28,7 +28,7 @@ Además, se generan variables temporales:
 
 # 📊Análisis exploratorio (EDA)
 
-- Visualización de datos:
+Visualización de datos:
   
   -- Gráficos lineales y de barras del precio de cierre.
   -- Histogramas y boxplots para detectar distribución y outliers.
