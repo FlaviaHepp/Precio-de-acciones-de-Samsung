@@ -30,15 +30,15 @@ Además, se generan variables temporales:
 
 Visualización de datos:
   
-  -- Gráficos lineales y de barras del precio de cierre.
-  -- Histogramas y boxplots para detectar distribución y outliers.
-  -- Visualización del precio y volumen en escala logarítmica.
-  -- Análisis de tendencias con LOWESS smoothing.
-  -- Gráficos de evolución temporal de máximos y volumen.
-  -- Análisis estadístico
-  -- Estadísticos descriptivos.
-  -- Análisis de correlación entre variables financieras.
-  -- Mapas de calor para identificar relaciones relevantes.
+  - Gráficos lineales y de barras del precio de cierre.
+  - Histogramas y boxplots para detectar distribución y outliers.
+  - Visualización del precio y volumen en escala logarítmica.
+  - Análisis de tendencias con LOWESS smoothing.
+  - Gráficos de evolución temporal de máximos y volumen.
+  - Análisis estadístico
+  - Estadísticos descriptivos.
+  - Análisis de correlación entre variables financieras.
+  - Mapas de calor para identificar relaciones relevantes.
 
 # 🔄Ingeniería y transformación de datos
 
